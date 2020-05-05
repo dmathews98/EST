@@ -1,0 +1,190 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Kulda}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=3748b97eb10060a3ac615b0c4c86fbdc}{%
+           family={Kulda},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{919721e40e3542f76cf4f45073af4b4c}
+      \strng{fullhash}{919721e40e3542f76cf4f45073af4b4c}
+      \strng{bibnamehash}{919721e40e3542f76cf4f45073af4b4c}
+      \strng{authorbibnamehash}{919721e40e3542f76cf4f45073af4b4c}
+      \strng{authornamehash}{919721e40e3542f76cf4f45073af4b4c}
+      \strng{authorfullhash}{919721e40e3542f76cf4f45073af4b4c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{18}
+      \field{journaltitle}{Phys. Rev. B}
+      \field{month}{11}
+      \field{title}{Inelastic-neutron-scattering study of phonon eigenvectors and frequencies in Si}
+      \field{volume}{50}
+      \field{year}{1994}
+      \field{pages}{13347\bibrangedash 13354}
+      \range{pages}{8}
+    \endentry
+    \entry{sic}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6ca95de74bf1cce75d3d534c056c88fb}{%
+           family={{Hopcroft}},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7f18aa834d376e9315a95af44123bc32}{%
+           family={{Nix}},
+           familyi={N\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=0f657801d65dbc8f76749489dbb33fea}{%
+           family={{Kenny}},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{cafcb62ee62fed1fe7de28787d05c4cf}
+      \strng{fullhash}{548b6447f21842bdf8f88ac39fea38df}
+      \strng{bibnamehash}{548b6447f21842bdf8f88ac39fea38df}
+      \strng{authorbibnamehash}{548b6447f21842bdf8f88ac39fea38df}
+      \strng{authornamehash}{cafcb62ee62fed1fe7de28787d05c4cf}
+      \strng{authorfullhash}{548b6447f21842bdf8f88ac39fea38df}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1941-0158}
+      \field{journaltitle}{Journal of Microelectromechanical Systems}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{What is the Young's Modulus of Silicon?}
+      \field{volume}{19}
+      \field{year}{2010}
+      \field{pages}{229\bibrangedash 238}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/JMEMS.2009.2039697
+      \endverb
+    \endentry
+    \entry{sicvary}{article}{}
+      \name{author}{6}{}{%
+        {{hash=b55943ee1082a79cb3748611b3e0f7f5}{%
+           family={Liss},
+           familyi={L\bibinitperiod},
+           given={K.-D.},
+           giveni={K\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=94861671217d770522b57d188cf26ba8}{%
+           family={d’Almeida},
+           familyi={d\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8f70ecde55b6ebb588d6c138fb788bd9}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aba60f62694d89622c03d4f8888c63ae}{%
+           family={Hock},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=65df7f6f8738c6d35bef865142e582ca}{%
+           family={Magerl},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=570c38969159991ecba8a017d2e5d436}{%
+           family={Eloy},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{479dc4fa4d38823d7758af6b96871ec0}
+      \strng{fullhash}{0b7de7054dd4f5e2a0406c7ef364638c}
+      \strng{bibnamehash}{479dc4fa4d38823d7758af6b96871ec0}
+      \strng{authorbibnamehash}{479dc4fa4d38823d7758af6b96871ec0}
+      \strng{authornamehash}{479dc4fa4d38823d7758af6b96871ec0}
+      \strng{authorfullhash}{0b7de7054dd4f5e2a0406c7ef364638c}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{number}{4}
+      \field{title}{Time-resolved x-ray diffraction study of laser-induced shock and acoustic waves in single crystalline silicon}
+      \field{volume}{106}
+      \field{year}{2009}
+      \field{pages}{044914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.3204968
+      \endverb
+    \endentry
+    \entry{raman}{article}{}
+      \name{author}{3}{}{%
+        {{hash=64f58795eb8b362f7fd8aa8e8f1ebd6d}{%
+           family={Bonse},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d33e08fdb5e04cc2c97b7f2b8dab7e28}{%
+           family={Brzezinka},
+           familyi={B\bibinitperiod},
+           given={K.-W},
+           giveni={K\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=643a438a76bda0653c549c23e94d25ee}{%
+           family={Meixner},
+           familyi={M\bibinitperiod},
+           given={A.J},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{90e976ed2f69be7e69913cc2d5ee2df4}
+      \strng{fullhash}{b40c0fadb932c57ecf113887567a7c30}
+      \strng{bibnamehash}{b40c0fadb932c57ecf113887567a7c30}
+      \strng{authorbibnamehash}{b40c0fadb932c57ecf113887567a7c30}
+      \strng{authornamehash}{90e976ed2f69be7e69913cc2d5ee2df4}
+      \strng{authorfullhash}{b40c0fadb932c57ecf113887567a7c30}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0169-4332}
+      \field{journaltitle}{Applied Surface Science}
+      \field{number}{1}
+      \field{title}{Modifying single-crystalline silicon by femtosecond laser pulses: an analysis by micro Raman spectroscopy, scanning laser microscopy and atomic force microscopy}
+      \field{volume}{221}
+      \field{year}{2004}
+      \field{pages}{215\bibrangedash 230}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0169-4332(03)00881-X
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

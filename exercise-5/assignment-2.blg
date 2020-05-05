@@ -1,0 +1,17 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'assignment-2.blg'
+[36] biber-darwin:313> INFO - === Thu Mar 12, 2020, 14:10:31
+[57] Biber.pm:371> INFO - Reading 'assignment-2.bcf'
+[149] Biber.pm:857> INFO - Found 8 citekeys in bib section 0
+[164] Biber.pm:3976> INFO - Processing section 0
+[175] Biber.pm:4136> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[178] bibtex.pm:1500> INFO - LaTeX decoding ...
+[192] bibtex.pm:1316> INFO - Found BibTeX data source 'biblio.bib'
+[235] Utils.pm:193> WARN - month field 'Apr' in entry 'jerry' is not an integer - this will probably not sort properly.
+[252] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[252] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[252] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[252] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[259] bbl.pm:617> INFO - Writing 'assignment-2.bbl' with encoding 'UTF-8'
+[263] bbl.pm:720> INFO - Output to assignment-2.bbl
+[263] Biber.pm:110> INFO - WARNINGS: 1

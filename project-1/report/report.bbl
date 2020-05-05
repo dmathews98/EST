@@ -1,0 +1,657 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{bednorz_muller}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8cff80fd52ea8f475111173909b5e53d}{%
+           family={Bednorz},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=6af4391587f9f3543ee53bf2caf68758}{%
+           family={M{ü}ller},
+           familyi={M\bibinitperiod},
+           given={K.\bibnamedelimi A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dacf520e1e89b1d5c843306572dd446}
+      \strng{fullhash}{4dacf520e1e89b1d5c843306572dd446}
+      \strng{bibnamehash}{4dacf520e1e89b1d5c843306572dd446}
+      \strng{authorbibnamehash}{4dacf520e1e89b1d5c843306572dd446}
+      \strng{authornamehash}{4dacf520e1e89b1d5c843306572dd446}
+      \strng{authorfullhash}{4dacf520e1e89b1d5c843306572dd446}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1431-584X}
+      \field{journaltitle}{Zeitschrift f{ü}r Physik B Condensed Matter}
+      \field{number}{2}
+      \field{title}{Possible highTc superconductivity in the Ba−La−Cu−O system}
+      \field{volume}{64}
+      \field{year}{1986}
+      \field{pages}{189\bibrangedash 193}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1007/BF01303701
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF01303701
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF01303701
+      \endverb
+    \endentry
+    \entry{Drozdov_2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c878e85b0a614c35d11e1e076cf53bb0}{%
+           family={Drozdov},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a52a668e0ae1bad921d3cbcd34200137}{%
+           family={Eremets},
+           familyi={E\bibinitperiod},
+           given={M.\bibnamedelimi I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=cd6cd9e8a05a95c67b93a44cc4c9db05}{%
+           family={Troyan},
+           familyi={T\bibinitperiod},
+           given={I.\bibnamedelimi A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e8e08009c326c06329203176482fb500}{%
+           family={Ksenofontov},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d95f8eb47ef31f31c44413dff28c36ca}{%
+           family={Shylin},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{f8c759efad0332c4a7229fb03a3ffc30}
+      \strng{fullhash}{4cf836d8fea76b8196531e651d79d99f}
+      \strng{bibnamehash}{4cf836d8fea76b8196531e651d79d99f}
+      \strng{authorbibnamehash}{4cf836d8fea76b8196531e651d79d99f}
+      \strng{authornamehash}{f8c759efad0332c4a7229fb03a3ffc30}
+      \strng{authorfullhash}{4cf836d8fea76b8196531e651d79d99f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{8}
+      \field{number}{7567}
+      \field{title}{Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system}
+      \field{volume}{525}
+      \field{year}{2015}
+      \field{pages}{73\bibrangedash 76}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nature14964
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1038/nature14964
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature14964
+      \endverb
+    \endentry
+    \entry{BCS}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a2166ded4b4480c2db03be223858e978}{%
+           family={Bardeen},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1bf59ad6db8f360c4c9421cdf820058a}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=d2e2b0c717f8437fede2fdd4e9a23fef}{%
+           family={Schrieffer},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{dd2e1293f6ac0958a7d4621b83b098c4}
+      \strng{fullhash}{cb0ca4ad26a75b26a27915779eb69d74}
+      \strng{bibnamehash}{cb0ca4ad26a75b26a27915779eb69d74}
+      \strng{authorbibnamehash}{cb0ca4ad26a75b26a27915779eb69d74}
+      \strng{authornamehash}{dd2e1293f6ac0958a7d4621b83b098c4}
+      \strng{authorfullhash}{cb0ca4ad26a75b26a27915779eb69d74}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{5}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{12}
+      \field{title}{Theory of Superconductivity}
+      \field{volume}{108}
+      \field{year}{1957}
+      \field{pages}{1175\bibrangedash 1204}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1103/PhysRev.108.1175
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.108.1175
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.108.1175
+      \endverb
+    \endentry
+    \entry{duan}{article}{}
+      \name{author}{10}{}{%
+        {{hash=0a96de318536a39276cae5c96cc14d1f}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Defang},
+           giveni={D\bibinitperiod}}}%
+        {{hash=017911d05e0e354919b269b902234861}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yunxian},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f2c11012b227d405850edce1863bbeff}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Fubo},
+           giveni={F\bibinitperiod}}}%
+        {{hash=02c7a7e9c8b10c3d3ee2912d42a8be3e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Da},
+           giveni={D\bibinitperiod}}}%
+        {{hash=109302e00b3f1cf637d737821e6e739e}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xiaoli},
+           giveni={X\bibinitperiod}}}%
+        {{hash=458fea556bddc038719d4b3b7f52ca54}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Zhonglong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3ea51f2f1d779454024148cc80bbf459}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Hongyu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e75007db7de7308818888154451135ff}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Bingbing},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4c12f68a96a60c64462b06bfc209712f}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Wenjing},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e294738d75b36d642e73d6ade70ead8d}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Tian},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc7fa48feaddb74a80eef3f912a406e7}
+      \strng{fullhash}{8e235e256a4f057913c78eece6d01ef7}
+      \strng{bibnamehash}{bc7fa48feaddb74a80eef3f912a406e7}
+      \strng{authorbibnamehash}{bc7fa48feaddb74a80eef3f912a406e7}
+      \strng{authornamehash}{bc7fa48feaddb74a80eef3f912a406e7}
+      \strng{authorfullhash}{8e235e256a4f057913c78eece6d01ef7}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{Pressure-induced metallization of dense (H2S)2H2 with high-Tc superconductivity}
+      \field{volume}{4}
+      \field{year}{2014}
+      \field{pages}{6968}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/srep06968
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/srep06968
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/srep06968
+      \endverb
+    \endentry
+    \entry{hk_thm}{article}{}
+      \name{author}{2}{}{%
+        {{hash=21f1804fbaac28705e8a24d20e30c6f1}{%
+           family={Hohenberg},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a428f3cafd6e60e94ad9498f2a2456d7}{%
+           family={Kohn},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{c3c5d7493992738736b5c70342d8ca5f}
+      \strng{fullhash}{c3c5d7493992738736b5c70342d8ca5f}
+      \strng{bibnamehash}{c3c5d7493992738736b5c70342d8ca5f}
+      \strng{authorbibnamehash}{c3c5d7493992738736b5c70342d8ca5f}
+      \strng{authornamehash}{c3c5d7493992738736b5c70342d8ca5f}
+      \strng{authorfullhash}{c3c5d7493992738736b5c70342d8ca5f}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{3B}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{11}
+      \field{title}{Inhomogeneous Electron Gas}
+      \field{volume}{136}
+      \field{year}{1964}
+      \field{pages}{B864\bibrangedash B871}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1103/PhysRev.136.B864
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.136.B864
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.136.B864
+      \endverb
+    \endentry
+    \entry{ks_eqns}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a428f3cafd6e60e94ad9498f2a2456d7}{%
+           family={Kohn},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a9d9f075c7e8c18b9c06601a25adf027}{%
+           family={Sham},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{5b7d81f251726a319b8bdd4490ce4fd3}
+      \strng{fullhash}{5b7d81f251726a319b8bdd4490ce4fd3}
+      \strng{bibnamehash}{5b7d81f251726a319b8bdd4490ce4fd3}
+      \strng{authorbibnamehash}{5b7d81f251726a319b8bdd4490ce4fd3}
+      \strng{authornamehash}{5b7d81f251726a319b8bdd4490ce4fd3}
+      \strng{authorfullhash}{5b7d81f251726a319b8bdd4490ce4fd3}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4A}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{11}
+      \field{title}{Self-Consistent Equations Including Exchange and Correlation Effects}
+      \field{volume}{140}
+      \field{year}{1965}
+      \field{pages}{A1133\bibrangedash A1138}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1103/PhysRev.140.A1133
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.140.A1133
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.140.A1133
+      \endverb
+    \endentry
+    \entry{pbe}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f7d11de7da27036e0c12d4055b2fb92d}{%
+           family={Perdew},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=33a535778ce96cdd2d59799deeea173d}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Kieron},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ccb694b80578a814211265eb307fdcde}{%
+           family={Ernzerhof},
+           familyi={E\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{0244884b5201dd2e825364bdb25fd96e}
+      \strng{fullhash}{1acfabd837046dffa1a0fc3d22c2f827}
+      \strng{bibnamehash}{1acfabd837046dffa1a0fc3d22c2f827}
+      \strng{authorbibnamehash}{1acfabd837046dffa1a0fc3d22c2f827}
+      \strng{authornamehash}{0244884b5201dd2e825364bdb25fd96e}
+      \strng{authorfullhash}{1acfabd837046dffa1a0fc3d22c2f827}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{18}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{10}
+      \field{title}{Generalized Gradient Approximation Made Simple}
+      \field{volume}{77}
+      \field{year}{1996}
+      \field{pages}{3865\bibrangedash 3868}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.77.3865
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.77.3865
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.77.3865
+      \endverb
+    \endentry
+    \entry{sternheimer}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5ea0eee76f78d937a4f278239a7244ce}{%
+           family={Sternheimer},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{5ea0eee76f78d937a4f278239a7244ce}
+      \strng{fullhash}{5ea0eee76f78d937a4f278239a7244ce}
+      \strng{bibnamehash}{5ea0eee76f78d937a4f278239a7244ce}
+      \strng{authorbibnamehash}{5ea0eee76f78d937a4f278239a7244ce}
+      \strng{authornamehash}{5ea0eee76f78d937a4f278239a7244ce}
+      \strng{authorfullhash}{5ea0eee76f78d937a4f278239a7244ce}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{10}
+      \field{title}{On Nuclear Quadrupole Moments}
+      \field{volume}{84}
+      \field{year}{1951}
+      \field{pages}{244\bibrangedash 253}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1103/PhysRev.84.244
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.84.244
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.84.244
+      \endverb
+    \endentry
+    \entry{estslides}{article}{}
+      \name{author}{1}{}{%
+        {{hash=86ae5b3fd62fef811d67ae25865c39a7}{%
+           family={Hermann},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{86ae5b3fd62fef811d67ae25865c39a7}
+      \strng{fullhash}{86ae5b3fd62fef811d67ae25865c39a7}
+      \strng{bibnamehash}{86ae5b3fd62fef811d67ae25865c39a7}
+      \strng{authorbibnamehash}{86ae5b3fd62fef811d67ae25865c39a7}
+      \strng{authornamehash}{86ae5b3fd62fef811d67ae25865c39a7}
+      \strng{authorfullhash}{86ae5b3fd62fef811d67ae25865c39a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronic Structure Theory}
+      \field{title}{Slides: W6-Lattice dynamics}
+      \field{year}{2019/2020}
+    \endentry
+    \entry{Harshman_2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2dfaf6de5b8f9f0ebb2fbeb8db9617ba}{%
+           family={Harshman},
+           familyi={H\bibinitperiod},
+           given={Dale\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0da049893bea0de7c665a3526d739fa9}{%
+           family={Fiory},
+           familyi={F\bibinitperiod},
+           given={Anthony\bibnamedelima T},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{e50924d77e38e9b0b5c7c26ec137d91d}
+      \strng{fullhash}{e50924d77e38e9b0b5c7c26ec137d91d}
+      \strng{bibnamehash}{e50924d77e38e9b0b5c7c26ec137d91d}
+      \strng{authorbibnamehash}{e50924d77e38e9b0b5c7c26ec137d91d}
+      \strng{authornamehash}{e50924d77e38e9b0b5c7c26ec137d91d}
+      \strng{authorfullhash}{e50924d77e38e9b0b5c7c26ec137d91d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Superconductor Science and Technology}
+      \field{month}{3}
+      \field{number}{4}
+      \field{title}{On the isotope effect in compressed superconducting H3S and D3S}
+      \field{volume}{30}
+      \field{year}{2017}
+      \field{pages}{045011}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6668/aa5f3c
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088%2F1361-6668%2Faa5f3c
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088%2F1361-6668%2Faa5f3c
+      \endverb
+    \endentry
+    \entry{Drozdov_2019}{article}{}
+      \name{author}{11}{}{%
+        {{hash=c878e85b0a614c35d11e1e076cf53bb0}{%
+           family={Drozdov},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5d28b7a9fdb50b1c1af69870c1cc21a8}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={P.\bibnamedelimi P.},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=34e9da2360bbfd0534c6606d392e2333}{%
+           family={Minkov},
+           familyi={M\bibinitperiod},
+           given={V.\bibnamedelimi S.},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=db3e0ebfee0ee6b3d091a5241ee354a2}{%
+           family={Besedin},
+           familyi={B\bibinitperiod},
+           given={S.\bibnamedelimi P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=faaa135262e4dfd47baf5a1a16f9a291}{%
+           family={Kuzovnikov},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=95cb1355d9783ad13e59c60de74d85ce}{%
+           family={Mozaffari},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=058855f37173da393e37fb061db20e7c}{%
+           family={Balicas},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a7356c0a52b8f06e9b30a38ba124ae95}{%
+           family={Balakirev},
+           familyi={B\bibinitperiod},
+           given={F.\bibnamedelimi F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=4fba04fe5933ba44cc9ae3f6cdeb2513}{%
+           family={Graf},
+           familyi={G\bibinitperiod},
+           given={D.\bibnamedelimi E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=54a3eddf97249c82158ea99184f1d915}{%
+           family={Prakapenka},
+           familyi={P\bibinitperiod},
+           given={V.\bibnamedelimi B.},
+           giveni={V\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c3b2ca4e1cd26593d202b777d068da34}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{f8c759efad0332c4a7229fb03a3ffc30}
+      \strng{fullhash}{2ef18d6a31d92b45c9554fbd7c227958}
+      \strng{bibnamehash}{f8c759efad0332c4a7229fb03a3ffc30}
+      \strng{authorbibnamehash}{f8c759efad0332c4a7229fb03a3ffc30}
+      \strng{authornamehash}{f8c759efad0332c4a7229fb03a3ffc30}
+      \strng{authorfullhash}{2ef18d6a31d92b45c9554fbd7c227958}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{5}
+      \field{number}{7757}
+      \field{title}{Superconductivity at 250 K in lanthanum hydride under high pressures}
+      \field{volume}{569}
+      \field{year}{2019}
+      \field{pages}{528\bibrangedash 531}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/s41586-019-1201-8
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1038/s41586-019-1201-8
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/s41586-019-1201-8
+      \endverb
+    \endentry
+    \entry{Somayazulu_2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=c3343eab1bd8af385633410469b1c3f6}{%
+           family={Somayazulu},
+           familyi={S\bibinitperiod},
+           given={Maddury},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b95a03f1051ddb8276d7308374072e38}{%
+           family={Ahart},
+           familyi={A\bibinitperiod},
+           given={Muhtar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7c61c1f5f308307eca426be4eed8801a}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Ajay\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=70ffcb71bba5ca433a6fe32f0476216d}{%
+           family={Geballe},
+           familyi={G\bibinitperiod},
+           given={Zachary\bibnamedelima M.},
+           giveni={Z\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=13cbb5b0ea2199beb2e4b1c003494193}{%
+           family={Baldini},
+           familyi={B\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=49aeed6a7e0468de97a0826a89ae6638}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c4cb3fc417e8d75a5c5fd84c4a2855b8}{%
+           family={Struzhkin},
+           familyi={S\bibinitperiod},
+           given={Viktor\bibnamedelima V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=31e2c23eb7a3e80461d70babefe02e98}{%
+           family={Hemley},
+           familyi={H\bibinitperiod},
+           given={Russell\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society (APS)}%
+      }
+      \strng{namehash}{83f409e4b1fc11b944abbfd2eab1c664}
+      \strng{fullhash}{45ad4ceb48a7e53238a47bb77ee835a8}
+      \strng{bibnamehash}{83f409e4b1fc11b944abbfd2eab1c664}
+      \strng{authorbibnamehash}{83f409e4b1fc11b944abbfd2eab1c664}
+      \strng{authornamehash}{83f409e4b1fc11b944abbfd2eab1c664}
+      \strng{authorfullhash}{45ad4ceb48a7e53238a47bb77ee835a8}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1079-7114}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Evidence for Superconductivity above 260 K in Lanthanum Superhydride at Megabar Pressures}
+      \field{volume}{122}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1103/physrevlett.122.027001
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

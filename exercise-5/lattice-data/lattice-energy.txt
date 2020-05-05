@@ -1,0 +1,3 @@
+!    total energy              =     -76.76877937 Ry
+!    total energy              =     -76.76877936 Ry
+!    total energy              =     -76.76877937 Ry

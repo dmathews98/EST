@@ -1,0 +1,28 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'report.blg'
+[38] biber-darwin:313> INFO - === Thu Apr  9, 2020, 14:34:22
+[60] Biber.pm:371> INFO - Reading 'report.bcf'
+[154] Biber.pm:857> INFO - Found 12 citekeys in bib section 0
+[167] Biber.pm:3976> INFO - Processing section 0
+[177] Biber.pm:4136> INFO - Looking for bibtex format file 'references/ESTproject.bib' for section 0
+[179] bibtex.pm:1500> INFO - LaTeX decoding ...
+[209] bibtex.pm:1316> INFO - Found BibTeX data source 'references/ESTproject.bib'
+[232] Utils.pm:193> WARN - ISBN '1431-584X' in entry 'bednorz_muller' is invalid - run biber with '--validate_datamodel' for details.
+[241] Utils.pm:193> WARN - month field 'Aug' in entry 'Drozdov_2015' is not an integer - this will probably not sort properly.
+[246] Utils.pm:193> WARN - month field 'Dec' in entry 'BCS' is not an integer - this will probably not sort properly.
+[260] Utils.pm:193> WARN - ISBN '2045-2322' in entry 'duan' is invalid - run biber with '--validate_datamodel' for details.
+[265] Utils.pm:193> WARN - month field 'Nov' in entry 'hk_thm' is not an integer - this will probably not sort properly.
+[269] Utils.pm:193> WARN - month field 'Nov' in entry 'ks_eqns' is not an integer - this will probably not sort properly.
+[274] Utils.pm:193> WARN - month field 'Oct' in entry 'pbe' is not an integer - this will probably not sort properly.
+[277] Utils.pm:193> WARN - month field 'Oct' in entry 'sternheimer' is not an integer - this will probably not sort properly.
+[280] Utils.pm:193> WARN - year field '2019/2020' in entry 'estslides' is not an integer - this will probably not sort properly.
+[281] Utils.pm:193> WARN - month field 'mar' in entry 'Harshman_2017' is not an integer - this will probably not sort properly.
+[300] Utils.pm:193> WARN - month field 'May' in entry 'Drozdov_2019' is not an integer - this will probably not sort properly.
+[311] Utils.pm:193> WARN - month field 'Jan' in entry 'Somayazulu_2019' is not an integer - this will probably not sort properly.
+[328] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[329] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[329] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[329] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[342] bbl.pm:617> INFO - Writing 'report.bbl' with encoding 'UTF-8'
+[349] bbl.pm:720> INFO - Output to report.bbl
+[350] Biber.pm:110> INFO - WARNINGS: 12

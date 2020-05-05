@@ -1,0 +1,11 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Methodology}{2}
+\contentsline {subsection}{\numberline {2.1}Density Functional Theory}{2}
+\contentsline {subsection}{\numberline {2.2}Density Functional Perturbation Theory}{4}
+\contentsline {section}{\numberline {3}Results}{5}
+\contentsline {subsection}{\numberline {3.1}SCF Convergence Tests}{5}
+\contentsline {subsection}{\numberline {3.2}Density of States Convergence Check and Final Plot}{6}
+\contentsline {subsection}{\numberline {3.3}Stress Tensor Calculation}{7}
+\contentsline {subsection}{\numberline {3.4}DFPT Convergence and $T_c$ Result}{8}
+\contentsline {section}{\numberline {4}Discussion}{8}

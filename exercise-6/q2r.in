@@ -1,0 +1,11 @@
+ &input
+! Input - name of dynamical matrix file
+   fildyn='si.dyn',
+
+! Output - name of force constant matrix file:
+   flfrc='si-q444.fc'
+
+! Use acoustic sum rule:
+   zasr='simple',
+
+ /

@@ -1,0 +1,40 @@
+ &control
+    calculation = 'scf'
+    restart_mode='from_scratch',
+    prefix='al-fcc',
+    pseudo_dir = './',
+    outdir='./al-fcc/'
+ /
+
+ &system
+! Specify crystal structure
+    space_group = 225,
+    ibrav=  2,
+    celldm(1) = 7.652,
+    nat = 1,
+    ntyp= 1
+! Plane wave cutoff energy
+    ecutwfc = 60
+! Metals: state occupancies and smearing
+    occupations = 'smearing',
+    smearing = 'gaussian',
+    degauss = 0.01
+ /
+
+ &electrons
+! SCF threshold for delta(E)
+    conv_thr =  1.0d-7
+! SCF cycle density mixing
+    mixing_mode = 'plain'
+    mixing_beta = 0.7
+ /
+
+ATOMIC_SPECIES
+Al 26.98 Al.pbe-n-van.UPF 
+
+ATOMIC_POSITIONS crystal_sg
+Al 0.00 0.00 0.00
+
+K_POINTS automatic
+8 8 8  0 0 0
+

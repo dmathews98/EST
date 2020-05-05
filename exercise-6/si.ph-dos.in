@@ -1,0 +1,17 @@
+ &input
+! Acoustic sum rule:
+    asr='simple',
+
+! Atomic mass of atoms:
+    amass(1)=28.086,
+
+! Input - force constant file name:
+    flfrc='si-q444.fc',
+    
+! Set up phonon-DOS on regular q-grid:
+    dos=.true.
+    nk1=6,nk2=6,nk3=6
+
+! Output - phonon-DOS file name:
+    fldos='si.ph-dos.dat',
+ /

@@ -1,0 +1,311 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{qdft}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9d6994094855ba535b52c0a1d831b5c7}{%
+           family={Nekrashevich},
+           familyi={N\bibinitperiod},
+           given={S.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6a89245d68825c393d88a4887cb26925}{%
+           family={Gritsenko},
+           familyi={G\bibinitperiod},
+           given={V.\bibnamedelimi A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9734424f86e33b7d08465953deb92047}
+      \strng{fullhash}{9734424f86e33b7d08465953deb92047}
+      \strng{bibnamehash}{9734424f86e33b7d08465953deb92047}
+      \strng{authorbibnamehash}{9734424f86e33b7d08465953deb92047}
+      \strng{authornamehash}{9734424f86e33b7d08465953deb92047}
+      \strng{authorfullhash}{9734424f86e33b7d08465953deb92047}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics of the Solid State}
+      \field{number}{2}
+      \field{title}{Electronic structure of silicon dioxide (a review)}
+      \field{volume}{56}
+      \field{year}{2014}
+      \field{pages}{207\bibrangedash 222}
+      \range{pages}{16}
+    \endentry
+    \entry{qexp}{article}{}
+      \name{author}{6}{}{%
+        {{hash=72e35b56a13ab5cfb20439a089a1ad02}{%
+           family={Garvie},
+           familyi={G\bibinitperiod},
+           given={Laurence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c018d2ea5c4cf2cd06ee0971afb418da}{%
+           family={Rez},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=70f7175fbb5829a20a8fc0424713aa56}{%
+           family={Alvarez},
+           familyi={A\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c92e80d173f0e07f126b1386d2de0869}{%
+           family={Buseck},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8fd36a0c24fc0fbead23e42010e19a9c}{%
+           family={Craven},
+           familyi={C\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=66df0ad5b75e6ea63bd05e23657ca3da}{%
+           family={Brydson},
+           familyi={B\bibinitperiod},
+           given={Rik},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{938e53a5e60eeab11a964f092c585057}
+      \strng{fullhash}{2b08a9d685611c47ddcfe196419712bb}
+      \strng{bibnamehash}{938e53a5e60eeab11a964f092c585057}
+      \strng{authorbibnamehash}{938e53a5e60eeab11a964f092c585057}
+      \strng{authornamehash}{938e53a5e60eeab11a964f092c585057}
+      \strng{authorfullhash}{2b08a9d685611c47ddcfe196419712bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Mineralogist}
+      \field{month}{05}
+      \field{title}{Bonding in alpha-quartz (SiO2): A view of the unoccupied states}
+      \field{volume}{85}
+      \field{year}{2000}
+    \endentry
+    \entry{asemi}{article}{}
+      \name{author}{9}{}{%
+        {{hash=1cc01a56de17ae14ac76da41de3881e2}{%
+           family={Carrasco},
+           familyi={C\bibinitperiod},
+           given={Rigo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0246efcc3cc9838c68961a7c0741c1d1}{%
+           family={Zamarripa},
+           familyi={Z\bibinitperiod},
+           given={Cesy},
+           giveni={C\bibinitperiod}}}%
+        {{hash=17fdcd9bccc83434c12c876f3652dbed}{%
+           family={Zollner},
+           familyi={Z\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=606fe3d38c68086e4eca4bba62a223e6}{%
+           family={Menendez},
+           familyi={M\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+        {{hash=072f7a67a540954bdf0e7e6c6d2434d9}{%
+           family={Chastang},
+           familyi={C\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e3bf4c9b1379d234469b1443089a4f8c}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Jinsong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ddccfc46e1efc7ba3613b2b852a56c90}{%
+           family={Grzybowski},
+           familyi={G\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1670a6ca2245819669d55782c160d685}{%
+           family={Claflin},
+           familyi={C\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e2d53169c4483581b9e00d6043378288}{%
+           family={Kiefer},
+           familyi={K\bibinitperiod},
+           given={Arnold},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{812e5e76d2ba37fa9ff80e02598215e8}
+      \strng{fullhash}{1fcaa66ce19e411d6f8c42666ff4271c}
+      \strng{bibnamehash}{812e5e76d2ba37fa9ff80e02598215e8}
+      \strng{authorbibnamehash}{812e5e76d2ba37fa9ff80e02598215e8}
+      \strng{authornamehash}{812e5e76d2ba37fa9ff80e02598215e8}
+      \strng{authorfullhash}{1fcaa66ce19e411d6f8c42666ff4271c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{month}{12}
+      \field{title}{The direct bandgap of gray tin investigated by infrared ellipsometry}
+      \field{volume}{113}
+      \field{year}{2018}
+      \field{pages}{232104}
+      \range{pages}{1}
+    \endentry
+    \entry{PRICE}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3dd9214082c1e14ce01d07e05c9e733e}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={D.L.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d6f6dadf53dfee0e71465f82bab96487}{%
+           family={Rowe},
+           familyi={R\bibinitperiod},
+           given={J.M.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c58c9a9703393dc6cea19c6451d5959f}
+      \strng{fullhash}{c58c9a9703393dc6cea19c6451d5959f}
+      \strng{bibnamehash}{c58c9a9703393dc6cea19c6451d5959f}
+      \strng{authorbibnamehash}{c58c9a9703393dc6cea19c6451d5959f}
+      \strng{authornamehash}{c58c9a9703393dc6cea19c6451d5959f}
+      \strng{authorfullhash}{c58c9a9703393dc6cea19c6451d5959f}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solid State Communications}
+      \field{number}{19}
+      \field{title}{The crystal dynamics of grey tin at 90°K}
+      \field{volume}{7}
+      \field{year}{1969}
+      \field{pages}{1433\bibrangedash 1438}
+      \range{pages}{6}
+    \endentry
+    \entry{smithells}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ad5ff38264029c154fbeb91b17e47de8}{%
+           family={Brandes},
+           familyi={B\bibinitperiod},
+           given={E.A.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad5ff38264029c154fbeb91b17e47de8}
+      \strng{fullhash}{ad5ff38264029c154fbeb91b17e47de8}
+      \strng{bibnamehash}{ad5ff38264029c154fbeb91b17e47de8}
+      \strng{authorbibnamehash}{ad5ff38264029c154fbeb91b17e47de8}
+      \strng{authornamehash}{ad5ff38264029c154fbeb91b17e47de8}
+      \strng{authorfullhash}{ad5ff38264029c154fbeb91b17e47de8}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Smithells metals reference book, sixth edition}
+      \field{year}{1983}
+    \endentry
+    \entry{pt}{book}{}
+      \name{author}{1}{}{%
+        {{hash=32eb9c2e77423c9db0f3b30de0ec600a}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={DA},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{32eb9c2e77423c9db0f3b30de0ec600a}
+      \strng{fullhash}{32eb9c2e77423c9db0f3b30de0ec600a}
+      \strng{bibnamehash}{32eb9c2e77423c9db0f3b30de0ec600a}
+      \strng{authorbibnamehash}{32eb9c2e77423c9db0f3b30de0ec600a}
+      \strng{authornamehash}{32eb9c2e77423c9db0f3b30de0ec600a}
+      \strng{authorfullhash}{32eb9c2e77423c9db0f3b30de0ec600a}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phase Diagrams of the Elements}
+      \field{year}{1975}
+      \field{pages}{29}
+      \range{pages}{1}
+    \endentry
+    \entry{jerry}{article}{}
+      \name{author}{3}{}{%
+        {{hash=27173c3a7854401f5a72a393be9709ff}{%
+           family={Jayaraman},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=32e2765b892a119be9e2e0fd9db1ed73}{%
+           family={Klement},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8624625472eb2bc73f3ac897f3cdc112}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={G.\bibnamedelimi C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{44523dc7b37576d2aca32f456e68610e}
+      \strng{fullhash}{a82a1e9182902b203ddd82b926de2866}
+      \strng{bibnamehash}{a82a1e9182902b203ddd82b926de2866}
+      \strng{authorbibnamehash}{a82a1e9182902b203ddd82b926de2866}
+      \strng{authornamehash}{44523dc7b37576d2aca32f456e68610e}
+      \strng{authorfullhash}{a82a1e9182902b203ddd82b926de2866}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{4}
+      \field{title}{Melting and Polymorphism at High Pressures in Some Group IV Elements and III-V Compounds with the Diamond/Zincblende Structure}
+      \field{volume}{130}
+      \field{year}{1963}
+      \field{pages}{540\bibrangedash 547}
+      \range{pages}{8}
+    \endentry
+    \entry{firstprinc}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a7c3f10f7464d16f33ed0b4781683bd0}{%
+           family={Na},
+           familyi={N\bibinitperiod},
+           given={Sung-Ho},
+           giveni={S\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7c3f10f7464d16f33ed0b4781683bd0}
+      \strng{fullhash}{a7c3f10f7464d16f33ed0b4781683bd0}
+      \strng{bibnamehash}{a7c3f10f7464d16f33ed0b4781683bd0}
+      \strng{authorbibnamehash}{a7c3f10f7464d16f33ed0b4781683bd0}
+      \strng{authornamehash}{a7c3f10f7464d16f33ed0b4781683bd0}
+      \strng{authorfullhash}{a7c3f10f7464d16f33ed0b4781683bd0}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of The Korean Physical Society}
+      \field{month}{01}
+      \field{title}{First-Principles Study of the Structural Phase Transition in Sn}
+      \field{volume}{56}
+      \field{year}{2010}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
